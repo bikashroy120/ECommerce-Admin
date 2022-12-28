@@ -64,7 +64,7 @@ const MainLayout = () => {
                 {
                   key:"brand-list",
                   icon: <AiOutlineDashboard className='fs-4' />,
-                  label:"Drand List"
+                  label:"Brand List"
                 },
                 {
                   key:"category",
